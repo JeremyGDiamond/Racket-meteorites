@@ -4,7 +4,7 @@ The third project of my class on the features and structure of languages. We wer
 
 You can see the assignment as “CSCI-3415-Program-3b-Fall-2018.pdf”, the sample code as “simple-meteorites-ref.rkt”, my code as “diamond-meteorites.rkt”, and my final report as “report.docx”. The following is adapted from my final report.
 ### Note
-There were 2 proposed project options. I’m only dealing with the one I did here for obvious reasons.
+There were 2 proposed project options. I’m only dealing with the one I did here, for obvious reasons.
 ## Running the Example Code
 Our first task was to simply get the example code to run as essentially nobody in the class had ever used racket or lisp. After installing racket and downloading the relevant files I began running the code as is. It yielded the following image. This seems to be identical to the intended state of the code. 
 ![alt text](https://github.com/JeremyGDiamond/Racket-meteorites/blob/master/screenshots/prechange.PNG "Intended state of sample code")
